@@ -36,6 +36,7 @@ pip install -r requirements.txt
 ```
 usage: scraper.py [-h] -page PAGE -len LEN [-infinite INFINITE] [-usage USAGE]
                   [-comments COMMENTS]
+                  scraper.py -page 1116041518594861 -len 10 -u WT
 
 Facebook Page Scraper
 
